@@ -1,0 +1,14 @@
+C:\Users\Mehmet\Desktop\5. DÖNEM\YTM\Bridge\Bridge_Example414267\Bridge_Example414267\bin\Debug\net8.0\Bridge_Example414267.exe
+C:\Users\Mehmet\Desktop\5. DÖNEM\YTM\Bridge\Bridge_Example414267\Bridge_Example414267\bin\Debug\net8.0\Bridge_Example414267.deps.json
+C:\Users\Mehmet\Desktop\5. DÖNEM\YTM\Bridge\Bridge_Example414267\Bridge_Example414267\bin\Debug\net8.0\Bridge_Example414267.runtimeconfig.json
+C:\Users\Mehmet\Desktop\5. DÖNEM\YTM\Bridge\Bridge_Example414267\Bridge_Example414267\bin\Debug\net8.0\Bridge_Example414267.dll
+C:\Users\Mehmet\Desktop\5. DÖNEM\YTM\Bridge\Bridge_Example414267\Bridge_Example414267\bin\Debug\net8.0\Bridge_Example414267.pdb
+C:\Users\Mehmet\Desktop\5. DÖNEM\YTM\Bridge\Bridge_Example414267\Bridge_Example414267\obj\Debug\net8.0\Bridge_Example414267.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mehmet\Desktop\5. DÖNEM\YTM\Bridge\Bridge_Example414267\Bridge_Example414267\obj\Debug\net8.0\Bridge_Example414267.AssemblyInfoInputs.cache
+C:\Users\Mehmet\Desktop\5. DÖNEM\YTM\Bridge\Bridge_Example414267\Bridge_Example414267\obj\Debug\net8.0\Bridge_Example414267.AssemblyInfo.cs
+C:\Users\Mehmet\Desktop\5. DÖNEM\YTM\Bridge\Bridge_Example414267\Bridge_Example414267\obj\Debug\net8.0\Bridge_Example414267.csproj.CoreCompileInputs.cache
+C:\Users\Mehmet\Desktop\5. DÖNEM\YTM\Bridge\Bridge_Example414267\Bridge_Example414267\obj\Debug\net8.0\Bridge_Example414267.dll
+C:\Users\Mehmet\Desktop\5. DÖNEM\YTM\Bridge\Bridge_Example414267\Bridge_Example414267\obj\Debug\net8.0\refint\Bridge_Example414267.dll
+C:\Users\Mehmet\Desktop\5. DÖNEM\YTM\Bridge\Bridge_Example414267\Bridge_Example414267\obj\Debug\net8.0\Bridge_Example414267.pdb
+C:\Users\Mehmet\Desktop\5. DÖNEM\YTM\Bridge\Bridge_Example414267\Bridge_Example414267\obj\Debug\net8.0\Bridge_Example414267.genruntimeconfig.cache
+C:\Users\Mehmet\Desktop\5. DÖNEM\YTM\Bridge\Bridge_Example414267\Bridge_Example414267\obj\Debug\net8.0\ref\Bridge_Example414267.dll
